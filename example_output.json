@@ -1,0 +1,8 @@
+{
+  "duration_seconds": 2.855,
+  "rms_dbfs": -17.54,
+  "low_energy_fraction": 0.447,
+  "review_reasons": [
+    "differs from the known synthetic reference"
+  ]
+}
